@@ -1,8 +1,10 @@
 from todos import get_todos, write_todos
 import time
 
+now = time.strftime("%b %d, %Y %H:%M:%S")
+print("Time: ", now)
+
 while True:
-    print(%d.%m.%y)
     user_action = input("Choose any command to execute add, show, complete, exit: ")
     user_action = user_action.strip()
 
