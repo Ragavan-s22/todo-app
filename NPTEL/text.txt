@@ -1,0 +1,20 @@
+Complaint ID: 1
+Title: To Find my phone
+Description: Phone got Stolen
+
+Priority: Medium
+Category: General
+Status: Open
+Date: 2023-09-09 20:47:56
+User: Ragavan S
+
+Complaint ID: 2
+Title: To Find my Wallet
+Description: Wallent is missing
+
+Priority: High
+Category: General
+Status: Open
+Date: 2023-09-09 20:48:38
+User: Sriram R
+
